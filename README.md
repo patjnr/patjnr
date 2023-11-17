@@ -1,6 +1,6 @@
 # [Itayi Patrick Chitovoro]
 
-## Cloud Software Developer | AWS Certified Professional
+## Cloud Software Developer | AWS Certified Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-patjnr-blue)](https://www.linkedin.com/in/patjnr)
 [![GitHub](https://img.shields.io/badge/GitHub-patjnr-green)](https://github.com/patjnr)
@@ -21,7 +21,7 @@ My profound knowledge of security fundamentals, encompassing authentication, aut
 
 ### Skills
 
-- **Programming Languages:** Python, JavaScript, Java
+- **Programming Languages:** PHP, JavaScript, Java, Python
 - **Cloud Platforms:** Amazon Web Services (AWS)
 - **Web Development:** HTML, CSS, React, Node.js
 - **Database:** AWS RDS, PostgreSQL, MongoDB, DynamoDB
