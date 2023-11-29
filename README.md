@@ -1,4 +1,4 @@
-# [Itayi Patrick Chitovoro]
+# Itayi Patrick Chitovoro
 
 ## Cloud Software Developer | AWS Certified Developer
 
